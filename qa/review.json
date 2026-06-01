@@ -310,7 +310,7 @@
           "file": "frames/running-left/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12654,
+          "nontransparent_pixels": 12387,
           "bbox": [
             21,
             9,
@@ -770,12 +770,12 @@
           "file": "frames/running/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23268,
+          "nontransparent_pixels": 21159,
           "bbox": [
-            5,
-            6,
-            187,
-            200
+            12,
+            15,
+            179,
+            193
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 0
@@ -785,12 +785,12 @@
           "file": "frames/running/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23178,
+          "nontransparent_pixels": 21166,
           "bbox": [
-            6,
-            6,
-            186,
-            201
+            13,
+            14,
+            179,
+            193
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 0
@@ -800,12 +800,12 @@
           "file": "frames/running/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23127,
+          "nontransparent_pixels": 21006,
           "bbox": [
-            5,
-            6,
-            187,
-            201
+            12,
+            14,
+            179,
+            193
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 0
@@ -815,12 +815,12 @@
           "file": "frames/running/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23065,
+          "nontransparent_pixels": 21092,
           "bbox": [
-            6,
-            7,
-            186,
-            201
+            13,
+            15,
+            179,
+            193
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 0
@@ -830,12 +830,12 @@
           "file": "frames/running/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23023,
+          "nontransparent_pixels": 21089,
           "bbox": [
-            6,
-            7,
-            186,
-            201
+            13,
+            15,
+            179,
+            193
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 0
@@ -845,12 +845,12 @@
           "file": "frames/running/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23087,
+          "nontransparent_pixels": 21156,
           "bbox": [
-            6,
-            6,
-            187,
-            201
+            12,
+            14,
+            179,
+            193
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 0
@@ -871,7 +871,7 @@
           "file": "frames/review/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13245,
+          "nontransparent_pixels": 13128,
           "bbox": [
             33,
             5,
@@ -886,7 +886,7 @@
           "file": "frames/review/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13108,
+          "nontransparent_pixels": 12984,
           "bbox": [
             33,
             7,
@@ -916,7 +916,7 @@
           "file": "frames/review/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12841,
+          "nontransparent_pixels": 12719,
           "bbox": [
             33,
             9,
@@ -946,7 +946,7 @@
           "file": "frames/review/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12584,
+          "nontransparent_pixels": 12470,
           "bbox": [
             33,
             11,

@@ -154,7 +154,7 @@
       "row": 2,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 12654
+      "nontransparent_pixels": 12387
     },
     {
       "state": "running-left",
@@ -406,42 +406,42 @@
       "row": 7,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 23268
+      "nontransparent_pixels": 21159
     },
     {
       "state": "running",
       "row": 7,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 23178
+      "nontransparent_pixels": 21166
     },
     {
       "state": "running",
       "row": 7,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 23127
+      "nontransparent_pixels": 21006
     },
     {
       "state": "running",
       "row": 7,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 23065
+      "nontransparent_pixels": 21092
     },
     {
       "state": "running",
       "row": 7,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 23023
+      "nontransparent_pixels": 21089
     },
     {
       "state": "running",
       "row": 7,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 23087
+      "nontransparent_pixels": 21156
     },
     {
       "state": "running",
@@ -462,14 +462,14 @@
       "row": 8,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 13245
+      "nontransparent_pixels": 13128
     },
     {
       "state": "review",
       "row": 8,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 13108
+      "nontransparent_pixels": 12984
     },
     {
       "state": "review",
@@ -483,7 +483,7 @@
       "row": 8,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 12841
+      "nontransparent_pixels": 12719
     },
     {
       "state": "review",
@@ -497,7 +497,7 @@
       "row": 8,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 12584
+      "nontransparent_pixels": 12470
     },
     {
       "state": "review",
